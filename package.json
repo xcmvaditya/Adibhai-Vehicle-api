@@ -1,0 +1,10 @@
+{
+  "name": "adibhai-vehicle-api",
+  "version": "1.0.0",
+  "description": "Adibhai Vehicle Info API",
+  "main": "api/vehicle.js",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
